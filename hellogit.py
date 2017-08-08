@@ -1,2 +1,1 @@
-print("fuckkkk")
-print("fuckkk")
+print("master")
